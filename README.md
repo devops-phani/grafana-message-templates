@@ -7,6 +7,7 @@ Reference links
 - https://faun.pub/overview-of-grafana-alerting-and-message-templating-for-slack-6bb740ec44af
 - https://docs.aws.amazon.com/grafana/latest/userguide/alert-message-templates.html
 - https://grafana.com/docs/grafana/latest/alerting/fundamentals/annotation-label/variables-label-annotation/
+- https://grafana.com/docs/grafana/latest/alerting/manage-notifications/create-message-template/
 
 
 We can add the required information in alert Summary
