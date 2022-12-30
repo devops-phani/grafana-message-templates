@@ -20,6 +20,10 @@
 *Summary*: 
 {{ .Annotations.summary}}
 
+{{ if gt (len .PanelURL ) 0 }}
+Go to Panel: {{ .PanelURL }}
+{{ end }}
+
 {{ end }}
 {{ end }}
 {{ end }}
